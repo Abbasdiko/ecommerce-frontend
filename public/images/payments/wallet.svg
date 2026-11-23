@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" aria-labelledby="title">
+  <title id="title">Marketplace wallet</title>
+  <rect width="160" height="48" rx="8" fill="#fff"/>
+  <path d="M11 17a4 4 0 0 1 4-4h22v24H15a4 4 0 0 1-4-4z" fill="#eaf4ed" stroke="#17834a" stroke-width="2"/>
+  <path d="M11 19h27v12H26a5 5 0 0 1 0-10h12" fill="#fff" stroke="#17834a" stroke-width="2"/>
+  <circle cx="27" cy="25" r="1.5" fill="#17834a"/>
+  <text x="48" y="30" fill="#26354a" font-family="Arial,sans-serif" font-size="19" font-weight="700">Wallet</text>
+</svg>

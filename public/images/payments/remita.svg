@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" aria-labelledby="title">
+  <title id="title">Remita</title>
+  <rect width="160" height="48" rx="8" fill="#fff"/>
+  <path d="M13 15h18v5H13zm0 8h24v5H13zm0 8h18v5H13z" fill="#0756a5"/>
+  <path d="M33 15h5v5h-5zm-5 8h5v5h-5zm5 8h5v5h-5z" fill="#f5a623"/>
+  <text x="46" y="31" fill="#17345b" font-family="Arial,sans-serif" font-size="21" font-weight="700">Remita</text>
+</svg>
